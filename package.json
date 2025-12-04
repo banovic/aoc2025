@@ -5,7 +5,8 @@
   "scripts": {
     "day1": "tsc && node ./dist/day1.js",
     "day2": "tsc && node ./dist/day2.js",
-    "day3": "tsc && node ./dist/day3.js"
+    "day3": "tsc && node ./dist/day3.js",
+    "day4": "tsc && node ./dist/day4.js"
   },
   "keywords": [],
   "author": "",
