@@ -7,10 +7,15 @@
     "day2": "tsc && node ./dist/day2.js",
     "day3": "tsc && node ./dist/day3.js",
     "day4": "tsc && node ./dist/day4.js",
-    "day5": "tsc && node ./dist/day5.js"
+    "day5": "tsc && node ./dist/day5.js",
+    "day6": "tsc && node ./dist/day6.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "aoc",
+    "adventofcode",
+    "adventofcode2025"
+  ],
+  "author": "banovic",
   "license": "ISC",
   "type": "module",
   "description": "",
